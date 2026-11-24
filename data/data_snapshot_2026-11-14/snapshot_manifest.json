@@ -1,0 +1,45 @@
+{
+  "snapshot_id": "2026-11-14",
+  "retrieval_date": "2026-11-14",
+  "created_utc": "2026-11-14T07:09:50",
+  "ticker_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "price_source": "Yahoo Finance via yfinance (auto_adjust=False, actions=True)",
+  "period_start": "2021-01-01",
+  "period_end_exclusive": "2025-01-01",
+  "versions": {
+    "python": "3.13.18",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "yfinance": "0.2.66"
+  },
+  "files": {
+    "adj_close_daily.csv.gz": {
+      "md5": "ad23104cdb776319d72512ecd97776d1",
+      "bytes": 3431247
+    },
+    "close_daily.csv.gz": {
+      "md5": "e0d47ee6af3a470f553e1685694108e8",
+      "bytes": 2024718
+    },
+    "volume_daily.csv.gz": {
+      "md5": "12436b2dce7464b0ec0ee794ea52a67a",
+      "bytes": 1452855
+    },
+    "dividends_daily.csv.gz": {
+      "md5": "11b13320c07a77b8ca239b8c251ec90e",
+      "bytes": 35225
+    },
+    "splits_daily.csv.gz": {
+      "md5": "92d84be20fb17611c8f159a108239252",
+      "bytes": 12174
+    },
+    "gspc_daily.csv.gz": {
+      "md5": "01b6b4c369521f98c5b5562ba457b532",
+      "bytes": 12920
+    },
+    "sp500_constituents.csv": {
+      "md5": "036d5a97468da3e3508ded0025a84562",
+      "bytes": 61262
+    }
+  }
+}

@@ -1,0 +1,504 @@
+,First_Date,Last_Date,Missing_Days,Bad_Price_Days,Zero_Volume_Days,Splits,Dividends,Change_On_Split_Day,Exclusion_Reason,Security,GICS Sector
+MMM,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.06012927439568827,,3M,Industrials
+AOS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,A. O. Smith,Industrials
+ABT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Abbott Laboratories,Health Care
+ABBV,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,AbbVie,Health Care
+ACN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Accenture,Information Technology
+ADBE,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Adobe Inc.,Information Technology
+AMD,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Advanced Micro Devices,Information Technology
+AES,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,AES Corporation,Utilities
+AFL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Aflac,Financials
+A,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Agilent Technologies,Health Care
+APD,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Air Products,Materials
+ABNB,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Airbnb,Consumer Discretionary
+AKAM,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Akamai Technologies,Information Technology
+ALB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Albemarle Corporation,Materials
+ARE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Alexandria Real Estate Equities,Real Estate
+ALGN,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Align Technology,Health Care
+ALLE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Allegion,Industrials
+LNT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Alliant Energy,Utilities
+ALL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Allstate,Financials
+GOOGL,2021-01-04,2024-12-31,0,0,0,1.0,3.0,0.024580059928059006,,Alphabet Inc. (Class A),Communication Services
+GOOG,2021-01-04,2024-12-31,0,0,0,1.0,3.0,0.025335378898117544,,Alphabet Inc. (Class C),Communication Services
+MO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Altria,Consumer Staples
+AMZN,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.01994280728922404,,Amazon,Consumer Discretionary
+AMCR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Amcor,Materials
+AEE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ameren,Utilities
+AEP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,American Electric Power,Utilities
+AXP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,American Express,Financials
+AIG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,American International Group,Financials
+AMT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,American Tower,Real Estate
+AWK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,American Water Works,Utilities
+AMP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ameriprise Financial,Financials
+AME,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ametek,Industrials
+AMGN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Amgen,Health Care
+APH,2021-01-04,2024-12-31,0,0,0,2.0,16.0,0.025316462934472872,,Amphenol,Information Technology
+ADI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Analog Devices,Information Technology
+AON,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Aon plc,Financials
+APA,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,APA Corporation,Energy
+APO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Apollo Global Management,Financials
+AAPL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Apple Inc.,Information Technology
+AMAT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Applied Materials,Information Technology
+APP,2021-04-15,2024-12-31,70,0,0,0.0,0.0,,Listed after study start (2021-04-15),AppLovin,Communication Services
+APTV,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Aptiv,Consumer Discretionary
+ACGL,2021-01-04,2024-12-31,0,0,0,0.0,1.0,,,Arch Capital Group,Financials
+ADM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Archer Daniels Midland,Consumer Staples
+ARES,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ares Management,Financials
+ANET,2021-01-04,2024-12-31,0,0,0,2.0,0.0,0.017516792731034903,,Arista Networks,Information Technology
+AJG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Arthur J. Gallagher & Co.,Financials
+AIZ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Assurant,Financials
+T,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.07664124459627564,,AT&T,Communication Services
+ATO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Atmos Energy,Utilities
+ADSK,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Autodesk,Information Technology
+ADP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Automatic Data Processing,Industrials
+AZO,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,AutoZone,Consumer Discretionary
+AVY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Avery Dennison,Materials
+AXON,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Axon Enterprise,Industrials
+BKR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Baker Hughes,Energy
+BALL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ball Corporation,Materials
+BAC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Bank of America,Financials
+BAX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Baxter International,Health Care
+BDX,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.0115131036466527,,Becton Dickinson,Health Care
+BRK-B,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Berkshire Hathaway,Financials
+BBY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Best Buy,Consumer Discretionary
+TECH,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.039410474339463875,,Bio-Techne,Health Care
+BIIB,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Biogen,Health Care
+BLK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,BlackRock,Financials
+BX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Blackstone Inc.,Financials
+XYZ,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,"Block, Inc.",Financials
+BE,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Bloom Energy,Industrials
+BNY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,BNY Mellon,Financials
+BA,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Boeing,Industrials
+BKNG,2021-01-04,2024-12-31,0,0,0,0.0,4.0,,,Booking Holdings,Consumer Discretionary
+BSX,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Boston Scientific,Health Care
+BMY,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Bristol Myers Squibb,Health Care
+AVGO,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.007955669327319281,,Broadcom,Information Technology
+BR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Broadridge Financial Solutions,Industrials
+BRO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Brown & Brown,Financials
+BF-B,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Brown–Forman,Consumer Staples
+BG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Bunge Global,Consumer Staples
+BXP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,"BXP, Inc.",Real Estate
+CHRW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,C.H. Robinson,Industrials
+CDNS,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Cadence Design Systems,Information Technology
+CPT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Camden Property Trust,Real Estate
+COF,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Capital One,Financials
+CAH,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Cardinal Health,Health Care
+CCL,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Carnival Corporation,Consumer Discretionary
+CARR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Carrier Global,Industrials
+CVNA,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Carvana,Consumer Discretionary
+CASY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Casey's,Consumer Staples
+CAT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Caterpillar Inc.,Industrials
+CBOE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Cboe Global Markets,Financials
+CBRE,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,CBRE Group,Real Estate
+CDW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,CDW Corporation,Information Technology
+COR,2021-01-04,2024-12-31,0,0,0,0.0,20.0,,,Cencora,Health Care
+CNC,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Centene Corporation,Health Care
+CNP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,CenterPoint Energy,Utilities
+CF,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,CF Industries,Materials
+CRL,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Charles River Laboratories,Health Care
+SCHW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Charles Schwab Corporation,Financials
+CHTR,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Charter Communications,Communication Services
+CVX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Chevron Corporation,Energy
+CMG,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.003033826879218049,,Chipotle Mexican Grill,Consumer Discretionary
+CB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Chubb Limited,Financials
+CHD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Church & Dwight,Consumer Staples
+CIEN,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Ciena,Information Technology
+CI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Cigna,Health Care
+CINF,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Cincinnati Financial,Financials
+CTAS,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.005184001453235609,,Cintas,Industrials
+CSCO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Cisco,Information Technology
+C,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Citigroup,Financials
+CFG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Citizens Financial Group,Financials
+CLX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Clorox,Consumer Staples
+CME,2021-01-04,2024-12-31,0,0,0,0.0,20.0,,,CME Group,Financials
+CMS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,CMS Energy,Utilities
+KO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Coca-Cola Company (The),Consumer Staples
+CTSH,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Cognizant,Information Technology
+COHR,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Coherent Corp.,Information Technology
+COIN,2021-04-14,2024-12-31,69,0,0,0.0,0.0,,Listed after study start (2021-04-14),Coinbase,Financials
+CL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Colgate-Palmolive,Consumer Staples
+CMCSA,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Comcast,Communication Services
+FIX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Comfort Systems USA,Industrials
+COP,2021-01-04,2024-12-31,0,0,0,0.0,24.0,,,ConocoPhillips,Energy
+ED,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Consolidated Edison,Utilities
+STZ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Constellation Brands,Consumer Staples
+CEG,2022-01-19,2024-12-31,263,0,0,0.0,12.0,,Listed after study start (2022-01-19),Constellation Energy,Utilities
+COO,2021-01-04,2024-12-31,0,0,0,1.0,6.0,0.029004536824538185,,Cooper Companies (The),Health Care
+CPRT,2021-01-04,2024-12-31,0,0,0,2.0,0.0,0.01208221848449087,,Copart,Industrials
+GLW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Corning Inc.,Information Technology
+CPAY,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Corpay,Financials
+CSGP,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.0378972553541469,,CoStar Group,Real Estate
+COST,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Costco,Consumer Staples
+CRH,2021-01-04,2024-12-31,0,0,0,0.0,12.0,,,CRH plc,Materials
+CRWD,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,CrowdStrike,Information Technology
+CCI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Crown Castle,Real Estate
+CSX,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.00671421951850415,,CSX Corporation,Industrials
+CMI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Cummins,Industrials
+CVS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,CVS Health,Health Care
+DHR,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.028219561031671114,,Danaher Corporation,Health Care
+DRI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Darden Restaurants,Consumer Discretionary
+DDOG,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Datadog,Information Technology
+DVA,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,DaVita,Health Care
+DECK,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.007550503487318783,,Deckers Brands,Consumer Discretionary
+DE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Deere & Company,Industrials
+DELL,2021-01-04,2024-12-31,0,0,0,1.0,11.0,0.03375904175075173,,Dell Technologies,Information Technology
+DAL,2021-01-04,2024-12-31,0,0,0,0.0,6.0,,,Delta Air Lines,Industrials
+DVN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Devon Energy,Energy
+DXCM,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.07354097471595078,,Dexcom,Health Care
+FANG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Diamondback Energy,Energy
+DLR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Digital Realty,Real Estate
+DG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Dollar General,Consumer Staples
+DLTR,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Dollar Tree,Consumer Staples
+D,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Dominion Energy,Utilities
+DPZ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Domino's,Consumer Discretionary
+DASH,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,DoorDash,Consumer Discretionary
+DOV,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Dover Corporation,Industrials
+DOW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Dow Inc.,Materials
+DHI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,D. R. Horton,Consumer Discretionary
+DTE,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.014344091494181699,,DTE Energy,Utilities
+DUK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Duke Energy,Utilities
+DD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,DuPont,Industrials
+ETN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Eaton Corporation,Industrials
+EBAY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,eBay Inc.,Consumer Discretionary
+ECHO,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,EchoStar,Communication Services
+ECL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ecolab,Materials
+EIX,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Edison International,Utilities
+EW,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Edwards Lifesciences,Health Care
+ELV,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Elevance Health,Health Care
+EME,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Emcor,Industrials
+EMR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Emerson Electric,Industrials
+ETR,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.0014162773927774985,,Entergy,Utilities
+EOG,2021-01-04,2024-12-31,0,0,0,0.0,23.0,,,EOG Resources,Energy
+EQT,2021-01-04,2024-12-31,0,0,0,0.0,12.0,,,EQT Corporation,Energy
+EFX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Equifax,Industrials
+EQIX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Equinix,Real Estate
+ERIE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Erie Indemnity,Financials
+ESS,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Essex Property Trust,Real Estate
+EL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Estée Lauder Companies (The),Consumer Staples
+EG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Everest Group,Financials
+EVRG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Evergy,Utilities
+P,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Everpure,Information Technology
+ES,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Eversource Energy,Utilities
+EXC,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.03907519236383927,,Exelon,Utilities
+EXE,2021-02-10,2024-12-31,26,0,0,0.0,15.0,,Listed after study start (2021-02-10),Expand Energy,Energy
+EXPE,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Expedia Group,Consumer Discretionary
+EXPD,2021-01-04,2024-12-31,0,0,0,0.0,8.0,,,Expeditors International,Industrials
+EXR,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Extra Space Storage,Real Estate
+XOM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,ExxonMobil,Energy
+FFIV,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,"F5, Inc.",Information Technology
+FDS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,FactSet,Financials
+FICO,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Fair Isaac,Information Technology
+FAST,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Fastenal,Industrials
+FRT,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Federal Realty Investment Trust,Real Estate
+FDX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,FedEx,Industrials
+FDXF,,,1005,0,0,,,,No data from Yahoo Finance,FedEx Freight,Industrials
+FERG,2021-01-04,2024-12-31,0,0,27,0.0,13.0,,27 zero-volume days,Ferguson Enterprises,Industrials
+FIS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Fidelity National Information Services,Financials
+FITB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Fifth Third Bancorp,Financials
+FSLR,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,First Solar,Information Technology
+FE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,FirstEnergy,Utilities
+FISV,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Fiserv,Financials
+FLEX,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.03970225812398631,,Flex Ltd.,Information Technology
+F,2021-01-04,2024-12-31,0,0,0,0.0,13.0,,,Ford Motor Company,Consumer Discretionary
+FTNT,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.019968386675822902,,Fortinet,Information Technology
+FTV,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Fortive,Industrials
+FOXA,2021-01-04,2024-12-31,0,0,0,0.0,8.0,,,Fox Corporation (Class A),Communication Services
+FOX,2021-01-04,2024-12-31,0,0,0,0.0,8.0,,,Fox Corporation (Class B),Communication Services
+BEN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Franklin Resources,Financials
+FCX,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Freeport-McMoRan,Materials
+GRMN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Garmin,Consumer Discretionary
+IT,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Gartner,Information Technology
+GE,2021-01-04,2024-12-31,0,0,0,3.0,16.0,0.058204279936263204,,GE Aerospace,Industrials
+GEHC,2022-12-15,2024-12-31,492,0,0,0.0,7.0,,Listed after study start (2022-12-15),GE HealthCare,Health Care
+GEV,2024-03-27,2024-12-31,812,0,0,0.0,1.0,,Listed after study start (2024-03-27),GE Vernova,Industrials
+GEN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Gen Digital,Information Technology
+GNRC,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Generac,Industrials
+GD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,General Dynamics,Industrials
+GIS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,General Mills,Consumer Staples
+GM,2021-01-04,2024-12-31,0,0,0,0.0,10.0,,,General Motors,Consumer Discretionary
+GPC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Genuine Parts Company,Consumer Discretionary
+GILD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Gilead Sciences,Health Care
+GPN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Global Payments,Financials
+GL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Globe Life,Financials
+GDDY,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,GoDaddy,Information Technology
+GS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Goldman Sachs,Financials
+HAL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Halliburton,Energy
+HIG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Hartford (The),Financials
+HAS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Hasbro,Consumer Discretionary
+HCA,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,HCA Healthcare,Health Care
+DOC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Healthpeak Properties,Real Estate
+HSIC,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Henry Schein,Health Care
+HSY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Hershey Company (The),Consumer Staples
+HPE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Hewlett Packard Enterprise,Information Technology
+HLT,2021-01-04,2024-12-31,0,0,0,0.0,11.0,,,Hilton Worldwide,Consumer Discretionary
+HD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Home Depot (The),Consumer Discretionary
+HONA,,,1005,0,0,,,,No data from Yahoo Finance,Honeywell Aerospace,Industrials
+HON,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Honeywell Technologies,Industrials
+HRL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Hormel Foods,Consumer Staples
+HST,2021-01-04,2024-12-31,0,0,0,0.0,12.0,,,Host Hotels & Resorts,Real Estate
+HWM,2021-01-04,2024-12-31,0,0,0,0.0,14.0,,,Howmet Aerospace,Industrials
+HPQ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,HP Inc.,Information Technology
+HUBB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Hubbell Incorporated,Industrials
+HUM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Humana,Health Care
+HBAN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Huntington Bancshares,Financials
+HII,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Huntington Ingalls Industries,Industrials
+IBM,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.005670609613602551,,IBM,Information Technology
+IEX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,IDEX Corporation,Industrials
+IDXX,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Idexx Laboratories,Health Care
+ITW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Illinois Tool Works,Industrials
+ILMN,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.0242699569018201,,"Illumina, Inc.",Health Care
+INCY,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Incyte,Health Care
+IR,2021-01-04,2024-12-31,0,0,0,0.0,13.0,,,Ingersoll Rand,Industrials
+PODD,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Insulet Corporation,Health Care
+INTC,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Intel,Information Technology
+IBKR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Interactive Brokers,Financials
+ICE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Intercontinental Exchange,Financials
+IFF,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,International Flavors & Fragrances,Materials
+IP,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.005768234993425825,,International Paper,Materials
+INTU,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Intuit,Information Technology
+ISRG,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.020309141651371654,,Intuitive Surgical,Health Care
+IVZ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Invesco,Financials
+INVH,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Invitation Homes,Real Estate
+IQV,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,IQVIA,Health Care
+IRM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Iron Mountain,Real Estate
+JBHT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,J.B. Hunt,Industrials
+JBL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Jabil,Information Technology
+JKHY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Jack Henry & Associates,Financials
+J,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.007441000404460274,,Jacobs Solutions,Industrials
+JNJ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Johnson & Johnson,Health Care
+JCI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Johnson Controls,Industrials
+JPM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,JPMorgan Chase,Financials
+KDP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Keurig Dr Pepper,Consumer Staples
+KEY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,KeyCorp,Financials
+KEYS,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Keysight Technologies,Information Technology
+KMB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Kimberly-Clark,Consumer Staples
+KIM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Kimco Realty,Real Estate
+KMI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Kinder Morgan,Energy
+KKR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,KKR & Co.,Financials
+KLAC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,KLA Corporation,Information Technology
+KHC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Kraft Heinz,Consumer Staples
+KR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Kroger,Consumer Staples
+LHX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,L3Harris,Industrials
+LH,2021-01-04,2024-12-31,0,0,0,1.0,11.0,0.007677741093625956,,Labcorp,Health Care
+LRCX,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.0036727632599967697,,Lam Research,Information Technology
+LVS,2021-01-04,2024-12-31,0,0,0,0.0,6.0,,,Las Vegas Sands,Consumer Discretionary
+LDOS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Leidos,Industrials
+LEN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Lennar,Consumer Discretionary
+LII,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Lennox International,Industrials
+LLY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Lilly (Eli),Health Care
+LIN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Linde plc,Materials
+LYV,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Live Nation Entertainment,Communication Services
+LMT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Lockheed Martin,Industrials
+L,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Loews Corporation,Financials
+LOW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Lowe's,Consumer Discretionary
+LULU,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Lululemon Athletica,Consumer Discretionary
+LITE,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Lumentum,Information Technology
+LYB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,LyondellBasell,Materials
+MTB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,M&T Bank,Financials
+MPC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Marathon Petroleum,Energy
+MAR,2021-01-04,2024-12-31,0,0,0,0.0,11.0,,,Marriott International,Consumer Discretionary
+MRSH,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Marsh McLennan,Financials
+MLM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Martin Marietta Materials,Materials
+MRVL,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Marvell Technology,Information Technology
+MAS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Masco,Industrials
+MA,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Mastercard,Financials
+MKC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,McCormick & Company,Consumer Staples
+MCD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,McDonald's,Consumer Discretionary
+MCK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,McKesson,Health Care
+MDT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Medtronic,Health Care
+MRK,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.020926419559905485,,Merck & Co.,Health Care
+META,2021-01-04,2024-12-31,0,0,0,0.0,4.0,,,Meta Platforms,Communication Services
+MET,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,MetLife,Financials
+MTD,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Mettler Toledo,Health Care
+MGM,2021-01-04,2024-12-31,0,0,0,0.0,8.0,,,MGM Resorts,Consumer Discretionary
+MCHP,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.00347546261488596,,Microchip Technology,Information Technology
+MU,2021-01-04,2024-12-31,0,0,0,0.0,14.0,,,Micron Technology,Information Technology
+MSFT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Microsoft,Information Technology
+MAA,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Mid-America Apartment Communities,Real Estate
+MRNA,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Moderna,Health Care
+MDLZ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Mondelez International,Consumer Staples
+MPWR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Monolithic Power Systems,Information Technology
+MNST,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.014044150629776708,,Monster Beverage,Consumer Staples
+MCO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Moody's Corporation,Financials
+MS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Morgan Stanley,Financials
+MOS,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Mosaic Company (The),Materials
+MSI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Motorola Solutions,Information Technology
+MSCI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,MSCI,Financials
+NDAQ,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.016312372485931093,,"Nasdaq, Inc.",Financials
+NTAP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,NetApp,Information Technology
+NFLX,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Netflix,Communication Services
+NEM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Newmont,Materials
+NWSA,2021-01-04,2024-12-31,0,0,0,0.0,8.0,,,News Corp (Class A),Communication Services
+NWS,2021-01-04,2024-12-31,0,0,0,0.0,8.0,,,News Corp (Class B),Communication Services
+NEE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,NextEra Energy,Utilities
+NKE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,"Nike, Inc.",Consumer Discretionary
+NI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,NiSource,Utilities
+NDSN,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Nordson Corporation,Industrials
+NSC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Norfolk Southern,Industrials
+NTRS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Northern Trust,Financials
+NOC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Northrop Grumman,Industrials
+NCLH,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Norwegian Cruise Line Holdings,Consumer Discretionary
+NRG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,NRG Energy,Utilities
+NUE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Nucor,Materials
+NVDA,2021-01-04,2024-12-31,0,0,0,2.0,16.0,0.008932563260727888,,Nvidia,Information Technology
+NVR,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,"NVR, Inc.",Consumer Discretionary
+NXPI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,NXP Semiconductors,Information Technology
+ORLY,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,O'Reilly Automotive,Consumer Discretionary
+OXY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Occidental Petroleum,Energy
+OKTA,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,"Okta, Inc.",Information Technology
+ODFL,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.024932778609185746,,Old Dominion,Industrials
+OMC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Omnicom Group,Communication Services
+ON,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,ON Semiconductor,Information Technology
+OKE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Oneok,Energy
+ORCL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Oracle Corporation,Information Technology
+OTIS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Otis Worldwide,Industrials
+PCAR,2021-01-04,2024-12-31,0,0,0,1.0,20.0,0.021443483005123776,,Paccar,Industrials
+PKG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Packaging Corporation of America,Materials
+PLTR,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Palantir Technologies,Information Technology
+PANW,2021-01-04,2024-12-31,0,0,0,2.0,0.0,0.030219793015797025,,Palo Alto Networks,Information Technology
+PH,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Parker Hannifin,Industrials
+PAYX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Paychex,Industrials
+PYPL,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,PayPal,Financials
+PNR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Pentair,Industrials
+PEP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,PepsiCo,Consumer Staples
+PFE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Pfizer,Health Care
+PCG,2021-01-04,2024-12-31,0,0,0,0.0,5.0,,,PG&E Corporation,Utilities
+PM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Philip Morris International,Consumer Staples
+PSX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Phillips 66,Energy
+PNW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Pinnacle West Capital,Utilities
+PNC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,PNC Financial Services,Financials
+PPG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,PPG Industries,Materials
+PPL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,PPL Corporation,Utilities
+PFG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Principal Financial Group,Financials
+PG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Procter & Gamble,Consumer Staples
+PGR,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Progressive Corporation,Financials
+PLD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Prologis,Real Estate
+PRU,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Prudential Financial,Financials
+PTC,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,PTC Inc.,Information Technology
+PEG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Public Service Enterprise Group,Utilities
+PSA,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,Public Storage,Real Estate
+PHM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,PulteGroup,Consumer Discretionary
+Q,,,1005,0,0,,,,No data from Yahoo Finance,Qnity Electronics,Information Technology
+QCOM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Qualcomm,Information Technology
+PWR,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Quanta Services,Industrials
+DGX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Quest Diagnostics,Health Care
+RL,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Ralph Lauren Corporation,Consumer Discretionary
+RJF,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.011874233119298694,,Raymond James Financial,Financials
+RDDT,2024-03-21,2024-12-31,808,0,0,0.0,0.0,,Listed after study start (2024-03-21),Reddit,Communication Services
+O,2021-01-04,2024-12-31,0,0,0,1.0,47.0,0.009299950295198034,,Realty Income,Real Estate
+REG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Regency Centers,Real Estate
+REGN,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Regeneron Pharmaceuticals,Health Care
+RF,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Regions Financial Corporation,Financials
+RSG,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Republic Services,Industrials
+RMD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,ResMed,Health Care
+RVTY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Revvity,Health Care
+HOOD,2021-07-29,2024-12-31,143,0,0,0.0,0.0,,Listed after study start (2021-07-29),Robinhood Markets,Financials
+ROK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Rockwell Automation,Industrials
+ROL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,"Rollins, Inc.",Industrials
+ROP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Roper Technologies,Information Technology
+ROST,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ross Stores,Consumer Discretionary
+RCL,2021-01-04,2024-12-31,0,0,0,0.0,2.0,,,Royal Caribbean Group,Consumer Discretionary
+RTX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,RTX Corporation,Industrials
+SPGI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,S&P Global,Financials
+CRM,2021-01-04,2024-12-31,0,0,0,0.0,4.0,,,Salesforce,Information Technology
+SNDK,,,1005,0,0,,,,No data from Yahoo Finance,Sandisk,Information Technology
+SBAC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,SBA Communications,Real Estate
+SLB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Schlumberger,Energy
+STX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Seagate Technology,Information Technology
+SRE,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.0026719510585770934,,Sempra,Utilities
+NOW,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,ServiceNow,Information Technology
+SHW,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.015230174480032943,,Sherwin-Williams,Materials
+SPG,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Simon Property Group,Real Estate
+SKYD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Skydance,Communication Services
+SWKS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Skyworks Solutions,Information Technology
+SJM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,J.M. Smucker Company (The),Consumer Staples
+SW,2021-01-04,2024-12-31,0,0,424,0.0,9.0,,424 zero-volume days,Smurfit Westrock,Materials
+SNA,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Snap-on,Industrials
+SOLV,2024-03-26,2024-12-31,811,0,0,0.0,0.0,,Listed after study start (2024-03-26),Solventum,Health Care
+SO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Southern Company,Utilities
+LUV,2021-01-04,2024-12-31,0,0,0,0.0,9.0,,,Southwest Airlines,Industrials
+SWK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Stanley Black & Decker,Industrials
+SBUX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Starbucks,Consumer Discretionary
+STT,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,State Street Corporation,Financials
+STLD,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Steel Dynamics,Materials
+STE,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Steris,Health Care
+SYK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Stryker Corporation,Health Care
+SMCI,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.02617675717014689,,Supermicro,Information Technology
+SYF,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Synchrony Financial,Financials
+SNPS,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Synopsys,Information Technology
+SYY,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Sysco,Consumer Staples
+TMUS,2021-01-04,2024-12-31,0,0,0,0.0,5.0,,,T-Mobile US,Communication Services
+TROW,2021-01-04,2024-12-31,0,0,0,0.0,17.0,,,T. Rowe Price,Financials
+TTWO,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Take-Two Interactive,Communication Services
+TPR,2021-01-04,2024-12-31,0,0,0,0.0,14.0,,,"Tapestry, Inc.",Consumer Discretionary
+TRGP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Targa Resources,Energy
+TGT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Target Corporation,Consumer Staples
+TEL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,TE Connectivity,Information Technology
+TDY,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Teledyne Technologies,Information Technology
+TER,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Teradyne,Information Technology
+TSLA,2021-01-04,2024-12-31,0,0,0,1.0,0.0,0.003455684406709514,,"Tesla, Inc.",Consumer Discretionary
+TXN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Texas Instruments,Information Technology
+TPL,2021-01-04,2024-12-31,0,0,0,1.0,17.0,0.029663258369552636,,Texas Pacific Land Corporation,Energy
+TXT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Textron,Industrials
+TMO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Thermo Fisher Scientific,Health Care
+TJX,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,TJX Companies,Consumer Discretionary
+TKO,2021-01-04,2024-12-31,0,0,0,0.0,11.0,,,TKO Group Holdings,Communication Services
+TSCO,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.021096057611565744,,Tractor Supply,Consumer Discretionary
+TT,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Trane Technologies,Industrials
+TDG,2021-01-04,2024-12-31,0,0,0,0.0,3.0,,,TransDigm Group,Industrials
+TRV,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Travelers Companies (The),Financials
+TRMB,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Trimble Inc.,Information Technology
+TFC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Truist Financial,Financials
+TWLO,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Twilio,Information Technology
+TYL,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Tyler Technologies,Information Technology
+TSN,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Tyson Foods,Consumer Staples
+USB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,U.S. Bancorp,Financials
+UBER,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Uber,Industrials
+UDR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,"UDR, Inc.",Real Estate
+ULTA,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Ulta Beauty,Consumer Discretionary
+UNP,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Union Pacific Corporation,Industrials
+UAL,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,United Airlines Holdings,Industrials
+UPS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,United Parcel Service,Industrials
+URI,2021-01-04,2024-12-31,0,0,0,0.0,8.0,,,United Rentals,Industrials
+UNH,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,UnitedHealth Group,Health Care
+UHS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Universal Health Services,Health Care
+VLO,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Valero Energy,Energy
+VEEV,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Veeva Systems,Health Care
+VTR,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Ventas,Real Estate
+VLTO,2023-10-04,2024-12-31,692,0,0,0.0,5.0,,Listed after study start (2023-10-04),Veralto,Industrials
+VRSN,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Verisign,Information Technology
+VRSK,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Verisk Analytics,Industrials
+VZ,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Verizon,Communication Services
+VRTX,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Vertex Pharmaceuticals,Health Care
+VRT,2021-01-04,2024-12-31,0,0,0,0.0,7.0,,,Vertiv,Industrials
+VTRS,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Viatris,Health Care
+VICI,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Vici Properties,Real Estate
+V,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Visa Inc.,Financials
+VST,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Vistra Corp.,Utilities
+VMRK,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Vivmark Residential,Real Estate
+VMC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Vulcan Materials Company,Materials
+VYLR,,,1005,0,0,,,,No data from Yahoo Finance,Vylor,Consumer Staples
+WRB,2021-01-04,2024-12-31,0,0,0,2.0,17.0,0.015006879317717603,,W. R. Berkley Corporation,Financials
+GWW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,W. W. Grainger,Industrials
+WAB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Wabtec,Industrials
+WMT,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.018455194940350195,,Walmart,Consumer Staples
+DIS,2021-01-04,2024-12-31,0,0,0,0.0,3.0,,,Walt Disney Company (The),Communication Services
+WM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Waste Management,Industrials
+WAT,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Waters Corporation,Health Care
+WEC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,WEC Energy Group,Utilities
+WFC,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Wells Fargo,Financials
+WELL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Welltower,Real Estate
+WST,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,West Pharmaceutical Services,Health Care
+WDC,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Western Digital,Information Technology
+WY,2021-01-04,2024-12-31,0,0,0,0.0,20.0,,,Weyerhaeuser,Real Estate
+WSM,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.0025948181968581396,,"Williams-Sonoma, Inc.",Consumer Discretionary
+WMB,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Williams Companies,Energy
+WTW,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Willis Towers Watson,Financials
+WDAY,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,"Workday, Inc.",Information Technology
+WYNN,2021-01-04,2024-12-31,0,0,0,0.0,7.0,,,Wynn Resorts,Consumer Discretionary
+XEL,2021-01-04,2024-12-31,0,0,0,0.0,15.0,,,Xcel Energy,Utilities
+XYL,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Xylem Inc.,Industrials
+YUM,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Yum! Brands,Consumer Discretionary
+ZBRA,2021-01-04,2024-12-31,0,0,0,0.0,0.0,,,Zebra Technologies,Information Technology
+ZBH,2021-01-04,2024-12-31,0,0,0,1.0,16.0,0.0053007377042748605,,Zimmer Biomet,Health Care
+ZTS,2021-01-04,2024-12-31,0,0,0,0.0,16.0,,,Zoetis,Health Care
